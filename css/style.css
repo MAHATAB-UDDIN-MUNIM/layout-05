@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: rgb(72, 98, 89);
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+
+}
+.nav{
+    background-color: rgb(40, 122, 93);
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+    height: 400px;
+}
+.content{
+    background-color: rgb(19, 72, 53);
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+    height: 500px;
+}
+footer{
+    background-color: rgb(4, 142, 93);
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+    height: 80px;
+}
